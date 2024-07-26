@@ -1,9 +1,11 @@
-# Cosden Solutions Example Code
+<h1>Please Read Me</h1>
 
-This repository provides the code shown in a specific video.
 
-## Instructions
 
-1. Install dependencies by running `pnpm install` (or `npm`/`yarn`)
-2. Run in dev mode by running `pnpm run dev` (or `npm`/`yarn`)
-3. Enjoy and learn!
+
+Main Code Is inside -----------
+
+./src/components/Dropdown.tsx
+./src/components/Dropdown.scss
+
+./src/stories/Dropsown.stories.tsx
