@@ -11,3 +11,6 @@ Main Code Is inside -----------
 ./src/components/Dropdown.scss
 
 ./src/stories/Dropsown.stories.tsx
+
+
+To Run------------ npm run storybook
