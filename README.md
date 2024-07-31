@@ -14,3 +14,8 @@ Main Code Is inside -----------
 
 
 To Run------------ npm run storybook
+
+/////////////////Deployed******************
+ Github Link: https://github.com/abhishek-mishraji/Quickreply-Dropdown 
+
+  Storybook Link: https://66a251ad88c517078bbfe6a4-kcresoskfy.chromatic.com/?path=/story/components-dropdown--default
